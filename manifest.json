@@ -1,0 +1,14 @@
+
+
+
+  "name": "One Stop Shop",
+  "short_name": "OneStop",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#f3f3f3",
+  "theme_color": "#ff9900",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/263/263142.png",
+      "sizes": "192x192",
+      "type": "image/pn
